@@ -1,0 +1,9 @@
+{
+    "presets": [
+        "env",
+        "react"
+    ],
+    "plugins": [
+        "transform-class-properties" //https://www.fullstackreact.com/articles/use-property-initializers-for-cleaner-react-components/
+    ]
+}
